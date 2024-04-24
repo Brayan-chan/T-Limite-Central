@@ -4,7 +4,7 @@
 
 ### Ejecutar el comando:
 
-```
+```python
 
 pip3 install scipy matplotlib numpy
 
